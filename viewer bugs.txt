@@ -1,0 +1,2 @@
+﻿doesn't display anything if entry.time != total of entry.timings
+doesn't display any headers if Response headers not populated
