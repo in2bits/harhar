@@ -46,7 +46,6 @@
     <Compile Include="Browser.cs" />
     <Compile Include="CacheInfo.cs" />
     <Compile Include="CacheState.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="ContentInfo.cs" />
     <Compile Include="CookieInfo.cs" />
     <Compile Include="Creator.cs" />
